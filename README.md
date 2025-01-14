@@ -35,4 +35,4 @@ Este projeto está licenciado sob a MIT License.
 ## Autor
 
 * **Nome:** [Seu nome completo]
-* **E-mail:** [Seu e-mail]
+
